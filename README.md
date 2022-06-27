@@ -3,8 +3,8 @@
 game created in unreal engine 4
 
 Description:
-**3D, first person shooter
-Multiplayer cooperative survival horror
+**3D, first person shooter,
+Multiplayer cooperative survival horror,
 PC only**
 
 **_Scenario Description:_**
