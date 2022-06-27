@@ -25,6 +25,10 @@ Screenshots of the game:
 ![image](https://user-images.githubusercontent.com/79107324/176003462-6ec245e1-3254-4819-b46c-ac7c696605a7.png)
 
 
+![image](https://user-images.githubusercontent.com/79107324/176006977-a61b066f-6b03-42a9-8f41-7d3711adefc3.png)
+
+
+
 
 **and some code:**
 
@@ -36,4 +40,5 @@ Screenshots of the game:
 
 ![Screenshot (285)](https://user-images.githubusercontent.com/79107324/176006015-0ea7a4d6-4c45-4dd3-8058-b2acba749160.png)
 
+![image](https://user-images.githubusercontent.com/79107324/176007021-3bab66ac-67ce-4a64-8569-2bac352c4046.png)
 
