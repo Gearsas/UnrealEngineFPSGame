@@ -12,3 +12,14 @@ PC only**
 
 moved to :
 https://drive.google.com/drive/folders/1hN4_l8BTJbAmgKjVCT3UrH73bPLIq5yS?usp=sharing
+
+
+Screenshots of the game:
+
+![image](https://user-images.githubusercontent.com/79107324/176003406-885c770d-31ce-4818-a01b-020af5bb609d.png)
+
+
+![image](https://user-images.githubusercontent.com/79107324/176003431-6f10e6b7-17cd-4541-946c-55cc782d77bf.png)
+
+
+![image](https://user-images.githubusercontent.com/79107324/176003462-6ec245e1-3254-4819-b46c-ac7c696605a7.png)
