@@ -23,3 +23,17 @@ Screenshots of the game:
 
 
 ![image](https://user-images.githubusercontent.com/79107324/176003462-6ec245e1-3254-4819-b46c-ac7c696605a7.png)
+
+
+
+**and some code:**
+
+
+
+
+![image](https://user-images.githubusercontent.com/79107324/176003846-bdc4c7f0-3ca1-4a17-822b-754247478f6c.png)
+
+
+![Screenshot (285)](https://user-images.githubusercontent.com/79107324/176006015-0ea7a4d6-4c45-4dd3-8058-b2acba749160.png)
+
+
